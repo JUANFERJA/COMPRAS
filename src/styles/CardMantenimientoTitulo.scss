@@ -1,0 +1,249 @@
+
+.cardDoc{
+        
+    box-sizing: border-box;
+    transition: all 300ms linear;
+    height: 39px;
+    background: #CFCECE;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+
+    .textcarDoc{
+       
+        width: 136px;
+        height: 24px;
+        margin-left: 10px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 24px;
+
+        /* identical to box height, or 100% */
+
+        /* Gris 4 */
+        color: #4B4B4B;
+
+
+    }
+    }
+.cardDocMd{
+        
+        box-sizing: border-box;
+    
+        width: 1400px;
+        height: 39px;
+        background: #CFCECE;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 5px;
+        transition: all 300ms linear;
+        .textcarDoc{
+           
+            width: 136px;
+            height: 24px;
+            margin-left: 10px;
+    
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 24px;
+            line-height: 24px;
+    
+            /* identical to box height, or 100% */
+    
+            /* Gris 4 */
+            color: #4B4B4B;
+    
+    
+        }
+    }
+.cardGrilla{
+        
+        box-sizing: border-box;
+        transition: all 300ms linear;
+        width: 95%;
+        height: 39px;
+        background: #CFCECE;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 5px;
+    
+        .textcarDoc{
+           
+            width: 136px;
+            height: 24px;
+            margin-left: 10px;
+    
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 24px;
+            line-height: 24px;
+    
+            /* identical to box height, or 100% */
+    
+            /* Gris 4 */
+            color: #4B4B4B;
+    
+    
+        }
+        }
+.cardGrillaMd{
+            
+            box-sizing: border-box;
+        
+            width: 1400px;
+            height: 39px;
+            background: #CFCECE;
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            border-radius: 5px;
+            transition: all 300ms linear;
+            .textcarDoc{
+               
+                width: 136px;
+                height: 24px;
+                margin-left: 10px;
+        
+                font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 24px;
+                line-height: 24px;
+        
+                /* identical to box height, or 100% */
+        
+                /* Gris 4 */
+                color: #4B4B4B;
+        
+        
+            }
+        }
+
+
+@media(max-width: 1400px){
+    .cardDoc{
+        
+    box-sizing: border-box;
+    transition: all 300ms linear;
+    width: 1060px;
+    height: 39px;
+    background: #CFCECE;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+
+    .textcarDoc{
+       
+        width: 136px;
+        height: 24px;
+        margin-left: 10px;
+
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 24px;
+
+        /* identical to box height, or 100% */
+
+        /* Gris 4 */
+        color: #4B4B4B;
+
+
+    }
+    }
+
+    .cardDocMd{
+        
+        box-sizing: border-box;
+        transition: all 300ms linear;
+        width: 1200px;
+        height: 39px;
+        background: #CFCECE;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 5px;
+    
+        .textcarDoc{
+           
+            width: 136px;
+            height: 24px;
+            margin-left: 10px;
+    
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 24px;
+            line-height: 24px;
+    
+            /* identical to box height, or 100% */
+    
+            /* Gris 4 */
+            color: #4B4B4B;
+    
+    
+        }
+        }
+    
+    .cardGrilla{
+        
+            box-sizing: border-box;
+            transition: all 300ms linear;
+            width: 95%;
+            margin-left: 30px;
+            margin-top: 20px;
+            height: 39px;
+            background: #CFCECE;
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            border-radius: 5px;
+        
+            .textcarDoc{
+               
+                width: 136px;
+                height: 24px;
+                margin-left: 10px;
+        
+                font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 24px;
+                line-height: 24px;
+        
+                /* identical to box height, or 100% */
+        
+                /* Gris 4 */
+                color: #4B4B4B;
+        
+        
+            }
+            }
+        
+    .cardGrillaMd{
+                
+                box-sizing: border-box;
+                transition: all 300ms linear;
+                width: 1250px;
+                height: 39px;
+                background: #CFCECE;
+                box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                border-radius: 5px;
+            
+                .textcarDoc{
+                   
+                    width: 136px;
+                    height: 24px;
+                    margin-left: 10px;
+            
+                    font-family: 'Roboto';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 24px;
+                    line-height: 24px;
+            
+                    /* identical to box height, or 100% */
+            
+                    /* Gris 4 */
+                    color: #4B4B4B;
+            
+            
+                }
+                }
+}
